@@ -1,0 +1,13 @@
+name = "Theseus S 3 . 5"
+author = "ExplosiveJoe190"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "688eda54c81f209df765f11a2a565ddff140e2a03f34a3f39c0b1e00f2365ad4"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"
