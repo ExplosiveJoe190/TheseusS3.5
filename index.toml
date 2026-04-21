@@ -53,6 +53,10 @@ file = "mods/TurtleCosmetics-1.1.jar"
 hash = "6e00a15ea89ca28d72e671a4fbe133c2f59b7399d7db24a6a5dec9bc1240f811"
 
 [[files]]
+file = "mods/[TAGZ] Supressing-1.0.jar"
+hash = "e9e8a6e783c4952b935b3c39a4e33992e8804f572401811b814976e660733193"
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
 metafile = true
@@ -97,7 +101,7 @@ hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
 metafile = true
 
 [[files]]
-file = "mods/cbc_at_Forge_1.20.1_0.1.4_beta_1(1).jar"
+file = "mods/cbc_at_Forge_1.20.1_0.1.4_beta_1.jar"
 hash = "4fb73a3b6060d6e02db89b68a8a8719b18917b97ed2ab8b26b566796c8798a20"
 
 [[files]]
@@ -356,6 +360,10 @@ hash = "cf53ff3d2ea7e7aed6a8045414b2c9b80405ce1e26d1c2d43bd75a9ddaf715c9"
 metafile = true
 
 [[files]]
+file = "mods/entityculling-forge-1.9.5-mc1.20.1.jar"
+hash = "8f80f3953fc988d8c6b4a88035441cad631fea87a413267526b64543890c02b0"
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "35ef939dd24fc39919a5a50c86e28468e1b3a178cdf61e8197dad72601f25ba5"
 metafile = true
@@ -443,6 +451,10 @@ hash = "6d115c1d0d00ecb7f99da1226633fedac760d7e87dda0a37c96cb3d89999bbd7"
 file = "mods/immediatelyfast.pw.toml"
 hash = "2621dfb5b3ad17a3adf927cc92a3bc6b0dd982c32f0265f920b29a61b34d182e"
 metafile = true
+
+[[files]]
+file = "mods/immersive_ballistic-1.2.jar"
+hash = "732706c494896e61f50ba8e03880199afef4fd0da9484a1e4646d01bedda7551"
 
 [[files]]
 file = "mods/inline.pw.toml"
@@ -588,6 +600,10 @@ hash = "ff455d3439b8e4ffbf78dc1e8998c1b59200bd10c74c77f9fe90e98f606e0f0d"
 metafile = true
 
 [[files]]
+file = "mods/petrolpark-1.20.1-1.4.23-all.jar"
+hash = "6ea10b19d6f9a8217d9f03eabc7d14bc27f159b2ddd6f26a78fa995cec5120ce"
+
+[[files]]
 file = "mods/petrolpark-library.pw.toml"
 hash = "cb460a3843c794a051649d2fa90c024623a2ea3c2faa31dcde0536694f6fcce9"
 metafile = true
@@ -645,6 +661,10 @@ metafile = true
 file = "mods/selene.pw.toml"
 hash = "8c1ddc34636bfb9ab2209a4d387900f03682a65ed5fcf8b5027ffdd9ba49880f"
 metafile = true
+
+[[files]]
+file = "mods/servercore-forge-1.5.2+1.20.1.jar"
+hash = "d9ad4f456b6c36bac17a71cd12935fdccae69ca1e1fcd33857210758cb58e586"
 
 [[files]]
 file = "mods/servercore.pw.toml"
