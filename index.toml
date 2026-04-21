@@ -598,11 +598,6 @@ file = "mods/petrolpark-1.20.1-1.4.23-all.jar"
 hash = "6ea10b19d6f9a8217d9f03eabc7d14bc27f159b2ddd6f26a78fa995cec5120ce"
 
 [[files]]
-file = "mods/petrolpark-library.pw.toml"
-hash = "cb460a3843c794a051649d2fa90c024623a2ea3c2faa31dcde0536694f6fcce9"
-metafile = true
-
-[[files]]
 file = "mods/playerrevive.pw.toml"
 hash = "93e79f423eafdfeb26a0ce9907f4a7dc63b8fdbb2a8702393b24ceec50954d6d"
 metafile = true
