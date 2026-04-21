@@ -1,0 +1,13 @@
+name = "TaCZ: Immersive Ballistic"
+filename = "immersive_ballistic-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "59a4680c6848619e02f5d46c330ea4fc07f6bc49"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7906581
+project-id = 1505041
