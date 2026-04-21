@@ -364,11 +364,6 @@ file = "mods/entityculling-forge-1.9.5-mc1.20.1.jar"
 hash = "8f80f3953fc988d8c6b4a88035441cad631fea87a413267526b64543890c02b0"
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "35ef939dd24fc39919a5a50c86e28468e1b3a178cdf61e8197dad72601f25ba5"
-metafile = true
-
-[[files]]
 file = "mods/estrogen.pw.toml"
 hash = "729157bf616f1b1e243f26ca367de77ebc19fecda4e0655e74e241838316dd87"
 metafile = true
@@ -439,9 +434,8 @@ file = "mods/hexconnect-1.0.2.jar"
 hash = "e352cb25614458dc73fb3c4482c41432f90a3bbd0c85c6f8677a18a557b5c535"
 
 [[files]]
-file = "mods/hexical-unofficial.pw.toml"
-hash = "361fc57a82e5817df410b9b42a5c07595a9de65a405a55f560080f993d01a958"
-metafile = true
+file = "mods/hexical-1.5.0.jar"
+hash = "c4d7a7fcafc13f87b21c01266761dfa6165b792862713775dfeb4c3e88b688f2"
 
 [[files]]
 file = "mods/hextweaks-5.3.3.jar"
@@ -667,11 +661,6 @@ file = "mods/servercore-forge-1.5.2+1.20.1.jar"
 hash = "d9ad4f456b6c36bac17a71cd12935fdccae69ca1e1fcd33857210758cb58e586"
 
 [[files]]
-file = "mods/servercore.pw.toml"
-hash = "4c1d37d3aecc6d67ce6c6a97d859345cdaefcf619a057069b0a8635f2ad551ac"
-metafile = true
-
-[[files]]
 file = "mods/silencevs.pw.toml"
 hash = "94f710567b1d9a163b641046936c9ae989f9229f965d557e89eed0ca81f28cde"
 metafile = true
@@ -701,11 +690,6 @@ hash = "80cc9e9ba6f53fa0a165c8ceb24d295eac471ecbb64f2b7711f1751264d96c1f"
 metafile = true
 
 [[files]]
-file = "mods/tacz-immersive-ballistic.pw.toml"
-hash = "6727e3d396ae3826d8984c8878394c739bd5aa12d3beffe0d5033cf775d6a0d1"
-metafile = true
-
-[[files]]
 file = "mods/tacz-lesraisins-tactical-equipements.pw.toml"
 hash = "d97655330510c21898fe03027bd9841e34af2c6bc89372f22a6b23e71068b5ab"
 metafile = true
@@ -713,11 +697,6 @@ metafile = true
 [[files]]
 file = "mods/tacz-sbw-playerrevive-gun-mod-compitability.pw.toml"
 hash = "94461f5f35745fe81fda66f916b7428cbaba9e9eab210d7fb051e87f48e820d2"
-metafile = true
-
-[[files]]
-file = "mods/tacz-suppressing.pw.toml"
-hash = "3b203174c300eb2d166fc4bf262f22a1894cf6f86d7386d095a2fdedd20de9bf"
 metafile = true
 
 [[files]]
