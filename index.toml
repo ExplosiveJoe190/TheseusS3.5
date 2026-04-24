@@ -311,7 +311,7 @@ hash = "f7f2006f3f8329b09d80922eb0f17d9340c2245aba1cc988c681435b87899433"
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "6a18fc39dbe317dcdba9aac9d5457e1bb2aa6decf77a6f4d6e67d7fbff0831d0"
+hash = "44294bb3e12220bec7c65a2c0940d7bd03b7031c738ae329923a1176ba4f57ba"
 metafile = true
 
 [[files]]
@@ -390,6 +390,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "9c2de144691d57dc2c1833b131da1d3102713cb12020dddce03558ec8b65a3b8"
 metafile = true
 
 [[files]]
@@ -532,6 +537,11 @@ metafile = true
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "0b9cc190139b0eb2d5f0153f05717ed53edd499ad2a3eeee99ea75d22fd0ef1c"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-comes-alive-reborn.pw.toml"
+hash = "c2ad38bd1f7a9e16a647e9b95ddc05e3678814081f2f44e304ea7e44296453b6"
 metafile = true
 
 [[files]]
