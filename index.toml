@@ -232,6 +232,11 @@ hash = "873aae2177ee4ef91e4ef1fc959ad9797850be1e8af7443148488a3681e13f85"
 metafile = true
 
 [[files]]
+file = "mods/create-graphs-stats.pw.toml"
+hash = "3fac976e6cc334dc926f2561b8548bcf60c251da0d4299517adea4eb9288a5dd"
+metafile = true
+
+[[files]]
 file = "mods/create-industry.pw.toml"
 hash = "04f84cbd5fd5408dd66d8bf48b6dffaee55baecfb84220e5dda82f43a36c3d85"
 metafile = true
@@ -244,6 +249,11 @@ metafile = true
 [[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "40ac9690c8b569e974a1f3172ea9a517ca1459ad04ab7144a0be85280227c45e"
+metafile = true
+
+[[files]]
+file = "mods/create-metallurgy.pw.toml"
+hash = "50a93920c1b1cd63dc236bef4433b66b132d3e8eb2eefe2463a2069b260beeda"
 metafile = true
 
 [[files]]
