@@ -466,9 +466,8 @@ file = "mods/immersive_ballistic-1.2.jar"
 hash = "732706c494896e61f50ba8e03880199afef4fd0da9484a1e4646d01bedda7551"
 
 [[files]]
-file = "mods/inline.pw.toml"
-hash = "7cf8c4505a3090cdaacd318c24ee0a1d009674ed45ec842e5717321d3ce9fc56"
-metafile = true
+file = "mods/inline-forge-1.20.1-1.2.2.jar"
+hash = "fe34e79fa98d67cfd48e1fa8da1893a9e0be4165c792374ede3099642c8b0336"
 
 [[files]]
 file = "mods/interiors.pw.toml"
