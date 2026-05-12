@@ -155,12 +155,12 @@ metafile = true
 
 [[files]]
 file = "mods/chloride.pw.toml"
-hash = "72a88bd8043afbcab6b9541e17e3494377cf54342791ecafee01ac402eff9089"
+hash = "1951159767e85b79ede16ca5b8105896e5fef8c06076b81d014c9945a37fedcb"
 metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "0eecbf541be1886e3b742f36c1f6beacd9209a7b4c2478457d0e5cd9335ca135"
+hash = "196cc9d1d20306ee561ebd889aa4516a82ee47b7d32b51bf29e239ce8a9de6e5"
 metafile = true
 
 [[files]]
@@ -178,7 +178,7 @@ hash = "b23ba45297d142cc9a412e730e64d3e67a34fc3c6b14c728020760d5cd349c4b"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
+hash = "9968a436035ab77bc4a9ba5d0313d6effa1eb887057165e56f89dd012568df36"
 metafile = true
 
 [[files]]
@@ -188,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "4da6adf77e6450d833ba13ea8e2326143d56d6b3505f97ef6c64a3665444134d"
+hash = "c3e2253b18d14b4b8f29a9e0039e174a87e5e7dd1765e57f89d0804d1b420877"
 metafile = true
 
 [[files]]
@@ -331,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "acb2f4b1300c24188642c03692c6cfaf35f3edbfbffc53a32506bbc4fa930d0c"
+hash = "70eb6e1674e173285168b5b5e4a44bc2a6d588033585c66fecb5e496b734c88c"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+hash = "a74b2d65c286896335b454f61f18be630d0f13767626ebb118584907d1d37112"
 metafile = true
 
 [[files]]
@@ -404,7 +404,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "9c2de144691d57dc2c1833b131da1d3102713cb12020dddce03558ec8b65a3b8"
+hash = "f962525c872e0e925ea0065fccf4efe99ed534c376003db5cf3f6e7faa6b09fb"
 metafile = true
 
 [[files]]
@@ -458,7 +458,7 @@ hash = "6d115c1d0d00ecb7f99da1226633fedac760d7e87dda0a37c96cb3d89999bbd7"
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2621dfb5b3ad17a3adf927cc92a3bc6b0dd982c32f0265f920b29a61b34d182e"
+hash = "a5320178c1cc118331b309b2e5cc902375163992d2427e1563a692930106e3ee"
 metafile = true
 
 [[files]]
@@ -467,7 +467,7 @@ hash = "732706c494896e61f50ba8e03880199afef4fd0da9484a1e4646d01bedda7551"
 
 [[files]]
 file = "mods/inline.pw.toml"
-hash = "7cf8c4505a3090cdaacd318c24ee0a1d009674ed45ec842e5717321d3ce9fc56"
+hash = "5d57903f6edc3bb26abd341cf0cc9c815fcafe804cf3f0cea036290cd704ba32"
 metafile = true
 
 [[files]]
@@ -546,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/melody.pw.toml"
-hash = "0b9cc190139b0eb2d5f0153f05717ed53edd499ad2a3eeee99ea75d22fd0ef1c"
+hash = "bd52722f1417e24a4acee3bf4fc59c5bf074627f7aaaaf8fd33056c7ef170bc3"
 metafile = true
 
 [[files]]
@@ -570,7 +570,7 @@ hash = "0f47a2432af77b02f4c77bf3ab9a2961f08a0500ec804398d62d362de71c66db"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
+hash = "c17b9de2050b52f12368cea16836e8c6ac43be9683b2fc4755a9b3d4a60fa67b"
 metafile = true
 
 [[files]]
@@ -580,12 +580,12 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes-forge.pw.toml"
-hash = "232f73206d09fb0c8cac662fb82bbb53367795818ef05f70c290e391a5e4fa03"
+hash = "2644d6a7f1b4326fc7bee43f7478c13d2a74197be08123d82b4c3f3d1d3b0014"
 metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
+hash = "0c86f3252ef0424e5149a093298dd337ebb12ef27932337d39aca29fbb8138bb"
 metafile = true
 
 [[files]]
