@@ -49,6 +49,10 @@ file = "mods/Connector-1.0.0-beta.48+1.20.1.jar"
 hash = "b22aa7794c67805eb8fdfe72af840ace6feb1c21c4a64385ca111a2c18abbafd"
 
 [[files]]
+file = "mods/TaCZ_-Expanded-Arsenal-v2.6.jar"
+hash = "79eec8d3281bf39434eace612620cefeb377e90ecbbcbcd0845ec563cf0abca2"
+
+[[files]]
 file = "mods/TurtleCosmetics-1.1.jar"
 hash = "6e00a15ea89ca28d72e671a4fbe133c2f59b7399d7db24a6a5dec9bc1240f811"
 
@@ -368,6 +372,10 @@ metafile = true
 file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
 hash = "cf53ff3d2ea7e7aed6a8045414b2c9b80405ce1e26d1c2d43bd75a9ddaf715c9"
 metafile = true
+
+[[files]]
+file = "mods/endlessammo-1.2.0.jar"
+hash = "aad1f64a7469f11c6fa68e2f6f9d977f0c3e3ca5a45be50bbffcd89506f16ab3"
 
 [[files]]
 file = "mods/entityculling-forge-1.9.5-mc1.20.1.jar"
