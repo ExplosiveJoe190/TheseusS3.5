@@ -172,10 +172,6 @@ file = "mods/classicperipherals-0.3.1-forge-1.20.1.jar"
 hash = "e2c27d666a38d9cedb939ed771ba27f7ea1aad6542f973985c7ae61a694b0cdc"
 
 [[files]]
-file = "mods/clockwork-0.5.4.6.jar"
-hash = "b23ba45297d142cc9a412e730e64d3e67a34fc3c6b14c728020760d5cd349c4b"
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "9968a436035ab77bc4a9ba5d0313d6effa1eb887057165e56f89dd012568df36"
 metafile = true
