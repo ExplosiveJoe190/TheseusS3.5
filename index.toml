@@ -21,6 +21,34 @@ file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/image-5.png"
+hash = "8a094840b5a148456698582d480183919b59d5e1079269e6f86000b615dd6a3a"
+
+[[files]]
+file = "kubejs/assets/netherless/textures/block/ghasttearfluid.png"
+hash = "0c77afedce87991bf8bad00b5198e10669480d7258da58f4e58e817dab983293"
+
+[[files]]
+file = "kubejs/assets/netherless/textures/block/incomplete_soul_sand.png"
+hash = "a3ad983526fa0005e4d5fac670b7616cb918afa1a99e61daf954a0760aebef38"
+
+[[files]]
+file = "kubejs/assets/netherless/textures/item/coal_rod.png"
+hash = "1bf7605ee40e1b377ed50c817069b189af665e9b3c660ba58b65c2038792d983"
+
+[[files]]
+file = "kubejs/assets/netherless/textures/item/incomplete_blaze_rod.png"
+hash = "67feaa3f8e60eed84b57007c054bfa47fcbbab9285bc6aef40db0088cacf1d96"
+
+[[files]]
+file = "kubejs/assets/netherless/textures/item/morphing_scrap.png"
+hash = "87d13270c83c15f8ace39498daea6151d1a0c050acbbab41f486d3da40515367"
+
+[[files]]
+file = "kubejs/assets/netherless/textures/item/netherite_fragment.png"
+hash = "a2bb180ad029a207e439d230c4333c0dade9507628f2859bbb1874303ee1ec2a"
+
+[[files]]
 file = "kubejs/client_scripts/example.js"
 hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
