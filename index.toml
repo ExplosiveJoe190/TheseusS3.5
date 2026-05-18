@@ -33,8 +33,52 @@ file = "kubejs/config/common.properties"
 hash = "afc81bf85e563ce80d6d715deefbb36cfc2168abc6cd0e7e1f5174e215e23eee"
 
 [[files]]
+file = "kubejs/server_scripts/WhatIfRavenTeamLeaderHadABuiltInEmote.js"
+hash = "a8b9ebab5399c5a16cceff4a98c1759fca57ea723429ab5c194755317ddb3870"
+
+[[files]]
+file = "kubejs/server_scripts/balls.js"
+hash = "cf27fba1d5af6972b550968e9fedc8d324804e8d6cbda11087666c825bb62ec9"
+
+[[files]]
+file = "kubejs/server_scripts/cannon.js"
+hash = "0cee79f2918dd179ea5e9cedcf3ff9e18700b4678c9f579d8e7e2707843d67a3"
+
+[[files]]
+file = "kubejs/server_scripts/cobble_gen_upgrade.js"
+hash = "8a349daed589d9dbf967f084fae6b5ca04cb95b4e7ad0fb47963961e3117e19d"
+
+[[files]]
+file = "kubejs/server_scripts/craft_additions"
+hash = "9c46f390c92a4f1974d38ebf089596931c880694dbf84637a6f0f660e6698ef6"
+
+[[files]]
 file = "kubejs/server_scripts/example.js"
 hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
+
+[[files]]
+file = "kubejs/server_scripts/minty.js"
+hash = "97380b71e518c2808abeb8add695b3eed4b9b2af70334cdaed2c2ba0b8480dde"
+
+[[files]]
+file = "kubejs/server_scripts/peak_create.js"
+hash = "7d7bdb67d9fe118e01b61759f2931c8e9dbcbfc15f5ed1cd5f1c0eb770ee5a04"
+
+[[files]]
+file = "kubejs/server_scripts/pneum.js"
+hash = "8faffa4ca70dcce703277bd3171e872f8321ec6df73f786c40473ccf92135d72"
+
+[[files]]
+file = "kubejs/server_scripts/whatIfTheRealNetherlessWasTheFriendsWeMadeAlongTheWay.js"
+hash = "b8d70378a1b34876c2a32e20e2e5e882d81cdaa3daa578cdd9eab872d45f4492"
+
+[[files]]
+file = "kubejs/startup_scripts/OHHH IM NETHERLESSING IT part 2 because idk if i can put these in the same file i probably can ngl also are you fr reading ts.js"
+hash = "7652e8cb9e1cc5cbd75d63dfa16ea9b908866a30d526d2191b27d2b15b2d1cd2"
+
+[[files]]
+file = "kubejs/startup_scripts/OHHH IM NETHERLESSING IT.js"
+hash = "374c5aa365fa5ed9eecbb4d902ea96e0a33dc0821d580b90e817f59b921ed276"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
