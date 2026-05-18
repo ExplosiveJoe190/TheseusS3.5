@@ -781,6 +781,11 @@ hash = "dec8b70e5df37440fc78ba0723ffd8a4f3a1791f17433ea403e36cbfc0bceb89"
 metafile = true
 
 [[files]]
+file = "mods/tconstructjs.pw.toml"
+hash = "f93620dcde45f5694f4bb8713299f60b07c5097d1ab192b0453b8176d5723483"
+metafile = true
+
+[[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
 hash = "435a6897e74215445c996c7e6e82127620e97a608974c34d426038b7201e540d"
 metafile = true
