@@ -26,7 +26,7 @@ ServerEvents.recipes(event => {
     event.recipes.create.filling('kubejs:incomplete_blaze_rod', [Fluid.lava(), 'kubejs:coal_rod']),
     event.recipes.create.filling('kubejs:incomplete_blaze_rod', [Fluid.lava(), 'kubejs:incomplete_blaze_rod']),
     event.recipes.create.pressing('kubejs:incomplete_blaze_rod', 'kubejs:incomplete_blaze_rod'),
-  ]).transitionalItem('kubejs:incomplete_blaze_rod').loops(4)
+  ]).transitionalItem('kubejs:incomplete_blaze_rod').loops(2)
   event.recipes.create.sandpaper_polishing('kubejs:coal_rod', 'minecraft:coal_block')
   event.shaped(
     Item.of('create:blaze_burner'), // definitely didnt copy paste this from the docs NUH UH SHUT UP FREAK why are you even reading these do you not trust me smh
